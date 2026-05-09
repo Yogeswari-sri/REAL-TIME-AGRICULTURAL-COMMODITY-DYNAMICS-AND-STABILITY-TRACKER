@@ -71,12 +71,18 @@ Promote standardized grades to reduce fluctuations.
 
 Implement regional subsidies and trade agreements for high‑volatility districts.
 
+DATA MODELLING
+
 <img width="1600" height="900" alt="modelmarket" src="https://github.com/user-attachments/assets/e5bac334-62ef-4df9-9842-74d56804019d" />
 
 📑 Final Conclusion
 The dashboard reveals a clear divide between stable commodities (Wheat, Gram, Jaggery) and volatile commodities (Rice, Potato, BOP). Stability is tied to standardized grades and non‑perishable items, while volatility stems from perishability, seasonal cycles, and regional demand.
 
 By combining Descriptive, Diagnostic, Predictive, and Prescriptive analytics, the project transforms raw market data into actionable intelligence. It empowers farmers to manage risk, traders to hedge against volatility, and policymakers to design targeted interventions. Ultimately, this documentation provides a roadmap for stabilizing markets, improving profitability, and enhancing transparency in the agricultural economy.
+
+OUTPUT OF DASHBOARD
+
+
 <img width="1600" height="900" alt="mdash" src="https://github.com/user-attachments/assets/936a4a8c-421c-4e61-8a9f-63b0c6cbe332" />
 
 
