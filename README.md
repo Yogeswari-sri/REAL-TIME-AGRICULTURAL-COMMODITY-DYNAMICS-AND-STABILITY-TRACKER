@@ -126,7 +126,8 @@ Implement regional subsidies and trade agreements for high‑volatility district
 
 DATA MODELLING
 
-<img width="1600" height="900" alt="modelmarket" src="https://github.com/user-attachments/assets/e5bac334-62ef-4df9-9842-74d56804019d" />
+<img width="1600" height="900" alt="mrk" src="https://github.com/user-attachments/assets/70bbe546-2798-40a2-8ca4-f6ef59c69ed4" />
+
 
 📑 Final Conclusion
 The dashboard reveals a clear divide between stable commodities (Wheat, Gram, Jaggery) and volatile commodities (Rice, Potato, BOP). Stability is tied to standardized grades and non‑perishable items, while volatility stems from perishability, seasonal cycles, and regional demand.
