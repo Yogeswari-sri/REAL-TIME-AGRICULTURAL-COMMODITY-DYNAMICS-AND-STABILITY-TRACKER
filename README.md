@@ -2,7 +2,6 @@
 This project demonstrates that agricultural market data, when structured into a dashboard, is not just a record of prices but a decision-support system. It empowers farmers to manage risk, traders to hedge against volatility, and policymakers to design targeted interventions. 
 
 
-🌾 Agricultural Commodity Market Dashboard
 
 📌 Objectives
 Monitor commodity prices (Min, Max, Modal) across districts and markets.
@@ -135,6 +134,7 @@ The dashboard reveals a clear divide between stable commodities (Wheat, Gram, Ja
 By combining Descriptive, Diagnostic, Predictive, and Prescriptive analytics, the project transforms raw market data into actionable intelligence. It empowers farmers to manage risk, traders to hedge against volatility, and policymakers to design targeted interventions. Ultimately, this documentation provides a roadmap for stabilizing markets, improving profitability, and enhancing transparency in the agricultural economy.
 
 OUTPUT OF DASHBOARD
+🌾 Agricultural Commodity Market Dashboard
 
 
 <img width="1600" height="900" alt="mdash" src="https://github.com/user-attachments/assets/936a4a8c-421c-4e61-8a9f-63b0c6cbe332" />
