@@ -126,7 +126,7 @@ Implement regional subsidies and trade agreements for high‑volatility district
 
 DATA MODELLING
 
-<img width="1600" height="900" alt="mrk" src="https://github.com/user-attachments/assets/70bbe546-2798-40a2-8ca4-f6ef59c69ed4" />
+
 
 
 📑 Final Conclusion
