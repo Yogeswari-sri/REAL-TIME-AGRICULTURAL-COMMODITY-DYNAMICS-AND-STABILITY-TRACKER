@@ -124,8 +124,11 @@ Promote standardized grades to reduce fluctuations.
 
 Implement regional subsidies and trade agreements for high‑volatility districts.
 
-DATA MODELLING
+DATA MODELLING OUTPUT
 
+
+
+<img width="751" height="583" alt="mrkmodelling" src="https://github.com/user-attachments/assets/efba5247-35a4-40b0-94eb-cfbcbe62172f" />
 
 
 
@@ -136,9 +139,7 @@ By combining Descriptive, Diagnostic, Predictive, and Prescriptive analytics, th
 
 OUTPUT OF DASHBOARD
 🌾 Agricultural Commodity Market Dashboard
-
-
-<img width="1600" height="900" alt="mdash" src="https://github.com/user-attachments/assets/936a4a8c-421c-4e61-8a9f-63b0c6cbe332" />
+<img width="1600" height="900" alt="mrk" src="https://github.com/user-attachments/assets/a1363f98-b153-4fb7-8ee3-88942afab7fb" />
 
 📑 Conclusion
 The Agricultural Commodity Dynamics and Stability Tracker demonstrates that markets are highly dynamic, with volatility concentrated in perishable and regionally imbalanced commodities. By combining descriptive, diagnostic, predictive, and prescriptive analytics, the dashboard transforms raw data into actionable intelligence:
