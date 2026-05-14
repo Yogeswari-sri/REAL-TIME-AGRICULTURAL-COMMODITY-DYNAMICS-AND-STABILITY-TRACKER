@@ -42,6 +42,7 @@ Relevant: Support decision-making for farmers, traders, and policymakers.
 Time-bound: Daily/weekly monitoring and seasonal tracking.
 
 🧩 Analytics Framework
+
 Descriptive Analysis (What happened?)
 Rice, Potato, and BOP showed wide price spreads and volatility.
 
