@@ -128,8 +128,7 @@ DATA MODELLING OUTPUT
 
 
 
-<img width="751" height="583" alt="mrkmodelling" src="https://github.com/user-attachments/assets/efba5247-35a4-40b0-94eb-cfbcbe62172f" />
-
+<img width="751" height="583" alt="mrkmodelling" src="https://github.com/user-attachments/assets/b1c0bc69-968b-4636-81b8-97c684a3104b" />
 
 
 📑 Final Conclusion
@@ -139,8 +138,7 @@ By combining Descriptive, Diagnostic, Predictive, and Prescriptive analytics, th
 
 OUTPUT OF DASHBOARD
 🌾 Agricultural Commodity Market Dashboard
-<img width="1526" height="735" alt="mmmm" src="https://github.com/user-attachments/assets/fd324254-bcfe-4cf0-8f10-c704d0f88a5a" />
-
+<img width="1526" height="735" alt="mmmm" src="https://github.com/user-attachments/assets/50efdfa5-ab73-4d63-8096-74e56299b14d" />
 
 📑 Conclusion
 The Agricultural Commodity Dynamics and Stability Tracker demonstrates that markets are highly dynamic, with volatility concentrated in perishable and regionally imbalanced commodities. By combining descriptive, diagnostic, predictive, and prescriptive analytics, the dashboard transforms raw data into actionable intelligence:
